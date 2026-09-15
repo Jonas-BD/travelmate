@@ -5,6 +5,7 @@ export const HeaderStyled = styled.header`
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    color: black;
 
     h1 {
         display: flex;
